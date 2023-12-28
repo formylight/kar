@@ -1,1 +1,3 @@
 b Text file ^^
+This is reveal
+이 파일은 깃허브 안에서 직접 수정하였습니다. 
